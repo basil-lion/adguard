@@ -3,7 +3,7 @@
 # Proofpoint
 @@||urldefense.proofpoint.com^$important
 # Dynatrace
-@@||dynatrace.com^$important
+#@@||dynatrace.com^$important
 # PowerBI services and reports
 @@||app.powerbi.com^$important
 @@||dc.services.visualstudio.com^$important
