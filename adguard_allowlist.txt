@@ -1,14 +1,14 @@
-! Domashka.net
+# Domashka.net
 @@||stats.domashka.net^$important
-! Proofpoint
+# Proofpoint
 @@||urldefense.proofpoint.com^$important
-! Dynatrace
+# Dynatrace
 @@||dynatrace.com^$important
-! PowerBI services and reports
+# PowerBI services and reports
 @@||app.powerbi.com^$important
 @@||dc.services.visualstudio.com^$important
 @@||wabi-us-north-central-e-primary-api.analysis.windows.net^$important
-! Google TV updater
+# Google TV updater
 @@||redirector.gvt1.com^$important
-! MacOS local
+# MacOS local
 @@||local^$important
