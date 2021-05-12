@@ -1,1 +1,1 @@
-# my adguard repo
+# AdGuard
